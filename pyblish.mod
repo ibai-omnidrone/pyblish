@@ -1,0 +1,2 @@
++ MAYAVERSION:2020 pyblish 1.0.0 ./
+PYBLISH_ROOT_PATH := .
