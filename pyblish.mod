@@ -5,5 +5,5 @@ PYTHONPATH +:= scripts/pyblish-base
 PYTHONPATH +:= scripts/pyblish-lite
 PYTHONPATH +:= scripts/pyblish-maya
 PYTHONPATH +:= scripts/pyblish-qml
-PYTHONPATH +:= scripts/pyblish-rpc
 PYTHONPATH +:= scripts/python-qt5
+
