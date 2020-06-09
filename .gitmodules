@@ -10,9 +10,6 @@
 [submodule "scripts/pyblish-qml"]
 	path = scripts/pyblish-qml
 	url = https://github.com/pyblish/pyblish-qml
-[submodule "scripts/pyblish-rpc"]
-	path = scripts/pyblish-rpc
-	url = https://github.com/pyblish/pyblish-rpc
 [submodule "scripts/pyblish-lite"]
 	path = scripts/pyblish-lite
 	url = https://github.com/pyblish/pyblish-lite
