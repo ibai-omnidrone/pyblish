@@ -15,4 +15,4 @@
 	url = https://github.com/pyblish/pyblish-lite
 [submodule "scripts/pyblish-maya"]
 	path = scripts/pyblish-maya
-	url = https://github.com/pyblish/pyblish-maya
+	url = https://github.com/ibai-omnidrone/pyblish-maya
