@@ -1,15 +1,9 @@
-[submodule "scripts/python-qt5"]
-	path = scripts/python-qt5
-	url = https://github.com/pyqt/python-qt5.git
 [submodule "scripts/pyblish"]
 	path = scripts/pyblish
 	url = https://github.com/pyblish/pyblish
 [submodule "scripts/pyblish-base"]
 	path = scripts/pyblish-base
 	url = https://github.com/pyblish/pyblish-base
-[submodule "scripts/pyblish-qml"]
-	path = scripts/pyblish-qml
-	url = https://github.com/pyblish/pyblish-qml
 [submodule "scripts/pyblish-lite"]
 	path = scripts/pyblish-lite
 	url = https://github.com/pyblish/pyblish-lite
