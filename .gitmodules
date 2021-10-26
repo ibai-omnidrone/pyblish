@@ -15,4 +15,4 @@
 	url = https://github.com/ibai-omnidrone/python-qt5.git
 [submodule "scripts/pyblish-qml"]
 	path = scripts/pyblish-qml
-	url = https://github.com/pyblish/pyblish-qml
+	url = https://github.com/ibai-omnidrone/pyblish-qml
