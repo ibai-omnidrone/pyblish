@@ -7,7 +7,7 @@ def pyblish_delayed_startup():
     """
     print("Initialize Pyblish")
     import pyblish.api
-    pyblish.api.register_gui('pyblish_lite')
+    pyblish.api.register_gui('pyblish_qml')
 
     import pyblish_maya
     pyblish_maya.setup()
